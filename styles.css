@@ -1,26 +1,15 @@
 
 /* Your CSS Code here. */
-.questions1{
-	background-color:#f8fffe;
-	height:50px;
-	margin-top:20px;
-	padding:15px;
-	max-width:600px;
-	border-left:8px solid green;
+ol{
+	list-style-type:lower-roman;
 }
-.questions2{
+.questions{
 	background-color:#f8fffe;
 	height:50px;
 	margin-top:20px;
 	padding:15px;
 	max-width:600px;
 	border-left:8px solid green;
-}
-.questions3{
-	background-color:#f8fffe;
-	height:50px;
-	margin-top:20px;
-	padding:15px;
-	max-width:600px;
-	border-left:8px solid green;
+/* 	border-style:solid;
+	border-color:green; */
 }
